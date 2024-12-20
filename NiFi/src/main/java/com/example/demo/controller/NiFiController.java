@@ -10,7 +10,7 @@ public class NiFiController {
 	@GetMapping("/nifi")
 	public String test() {
 		
-		return "aa"; 
+		return "aa12"; 
 	}
 	
 }
